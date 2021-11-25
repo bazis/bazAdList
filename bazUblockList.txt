@@ -1,4 +1,4 @@
-! Expires: 5 days
+! Expires: 1 days
 
 music.yandex.ru##.bar__new-pay
 music.yandex.ru##.bar-below__pay
@@ -16,8 +16,13 @@ mail.yandex.ru##.ns-view-mail-pro-left-column-button
 www.pepper.ru##.cept-banner
 www.pepper.ru##.js-telegram-widget
 
-www.deepl.com##.dl_overlay_popup
-www.deepl.com###dl_app_banner_popup
+deepl.com##.dl_overlay_popup
+deepl.com###dl_app_banner_popup
+deepl.com###lmt_pro_ad_container
+deepl.com##.dl_visible_desktop_only.dl_top_element--wide
+deepl.com###dl_quotes_container
+deepl.com##.dl_headerMenu__proButton
+
 
 3dtoday.ru###id_scroll_elms
 
