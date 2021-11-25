@@ -27,6 +27,8 @@ deepl.com###dl_menu_plans_and_pricing
 deepl.com###dl_menu_apps
 deepl.com###dl_menu_deepl_pro
 deepl.com###dl_menu_deepl_api
+deepl.com##.dl_footer
+
 
 
 3dtoday.ru###id_scroll_elms
