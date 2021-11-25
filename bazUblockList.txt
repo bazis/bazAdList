@@ -7,6 +7,7 @@ comments.bot##.svfwv.no_radius.sg_gp_block_comments
 cloud.mail.ru##.b-promo-banner__content
 cloud.mail.ru###topBanner
 cloud.mail.ru##div[data-name="/recommend"]
+cloud.mail.ru##span[data-name="portal-menu-promo"]
 
 mail.yandex.ru##.ns-view-mail-pro-left-column-button
 
