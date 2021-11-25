@@ -1,3 +1,5 @@
+! Expires: 5 days
+
 music.yandex.ru##.bar__new-pay
 music.yandex.ru##.bar-below__pay
 music.yandex.ru##.bar-below__subscription
