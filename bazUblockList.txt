@@ -22,6 +22,10 @@ deepl.com###lmt_pro_ad_container
 deepl.com##.dl_visible_desktop_only.dl_top_element--wide
 deepl.com###dl_quotes_container
 deepl.com##.dl_headerMenu__proButton
+deepl.com###dl_menu_plans_and_pricing
+deepl.com###dl_menu_apps
+deepl.com###dl_menu_deepl_pro
+deepl.com###dl_menu_deepl_api
 
 
 3dtoday.ru###id_scroll_elms
