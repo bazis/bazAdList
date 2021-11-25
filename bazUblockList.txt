@@ -28,6 +28,7 @@ deepl.com###dl_menu_apps
 deepl.com###dl_menu_deepl_pro
 deepl.com###dl_menu_deepl_api
 deepl.com##.dl_footer
+deepl.com##.lmt__bottom_text--mobile
 
 
 
