@@ -30,8 +30,10 @@ deepl.com###dl_menu_deepl_api
 deepl.com##.dl_footer
 deepl.com##.lmt__bottom_text--mobile
 
-
-
 3dtoday.ru###id_scroll_elms
 
 cad.onshape.com##.os-billing-banner
+
+avito.ru##.js-personal-discount-adaptive-banner
+avito.ru##.js-profile-items-income
+
