@@ -41,3 +41,5 @@ otus.ru##.poll-notification
 otus.ru##.sticky-banner
 otus.ru##.before-header
 
+jsonlint.com##div.memberful-button
+jsonlint.com##div.bsa-ad
