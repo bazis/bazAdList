@@ -16,6 +16,7 @@ mail.yandex.ru##.ns-view-mail-pro-left-column-button
 www.pepper.ru##.cept-banner
 www.pepper.ru##.js-telegram-widget
 www.pepper.ru##.footer
+www.pepper.ru##article#thread_
 
 deepl.com##.dl_overlay_popup
 deepl.com###dl_app_banner_popup
