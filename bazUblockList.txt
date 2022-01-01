@@ -32,6 +32,7 @@ deepl.com##.dl_footer
 deepl.com##.lmt__bottom_text--mobile
 
 3dtoday.ru###id_scroll_elms
+3dtoday.ru##.editor-actions-close
 
 cad.onshape.com##.os-billing-banner
 
