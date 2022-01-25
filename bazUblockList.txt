@@ -11,6 +11,8 @@ cloud.mail.ru###topBanner
 cloud.mail.ru##div[data-name="/recommend"]
 cloud.mail.ru##span[data-name="portal-menu-promo"]
 
+app.multcloud.com##div.popup:has(div#timeLimitedSaled)
+
 mail.yandex.ru##.ns-view-mail-pro-left-column-button
 
 www.pepper.ru##.cept-banner
