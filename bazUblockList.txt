@@ -12,6 +12,7 @@ cloud.mail.ru##div[data-name="/recommend"]
 cloud.mail.ru##span[data-name="portal-menu-promo"]
 
 app.multcloud.com##div.popup:has(div#timeLimitedSaled)
+app.multcloud.com##button.upgrade-button
 
 mail.yandex.ru##.ns-view-mail-pro-left-column-button
 
