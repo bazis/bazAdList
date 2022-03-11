@@ -4,6 +4,9 @@ music.yandex.ru##.bar__new-pay
 music.yandex.ru##.bar-below__pay
 music.yandex.ru##.bar-below__subscription
 
+mail.yandex.ru##.ns-view-mail-pro-left-column-button
+disk.yandex.ru##.PSHeader-Pro
+
 comments.bot##.svfwv.no_radius.sg_gp_block_comments
 
 cloud.mail.ru##.b-promo-banner__content
@@ -13,8 +16,6 @@ cloud.mail.ru##span[data-name="portal-menu-promo"]
 
 app.multcloud.com##div.popup:has(div#timeLimitedSaled)
 app.multcloud.com##button.upgrade-button
-
-mail.yandex.ru##.ns-view-mail-pro-left-column-button
 
 www.pepper.ru##.cept-banner
 www.pepper.ru##.js-telegram-widget
