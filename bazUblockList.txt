@@ -42,6 +42,7 @@ cad.onshape.com##.os-billing-banner
 
 avito.ru##.js-personal-discount-adaptive-banner
 avito.ru##.js-profile-items-income
+avito.ru##.js-common-banner
 
 otus.ru##.poll-notification
 otus.ru##.sticky-banner
