@@ -14,6 +14,8 @@ cloud.mail.ru##.b-promo-banner__content
 cloud.mail.ru###topBanner
 cloud.mail.ru##div[data-name="/recommend"]
 cloud.mail.ru##span[data-name="portal-menu-promo"]
+cloud.mail.ru##div[data-qa-tooltip="promotip"]
+cloud.mail.ru##div[class^="Space__payment"]
 
 app.multcloud.com##div.popup:has(div#timeLimitedSaled)
 app.multcloud.com##button.upgrade-button
