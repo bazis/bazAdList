@@ -7,6 +7,7 @@ music.yandex.ru##.bar-below__subscription
 mail.yandex.ru##.ns-view-mail-pro-left-column-button
 mail.yandex.ru##.PSHeader-Pro
 disk.yandex.ru##.PSHeader-Pro
+disk.yandex.ru##a.InfoSpace_discount
 
 comments.bot##.svfwv.no_radius.sg_gp_block_comments
 
