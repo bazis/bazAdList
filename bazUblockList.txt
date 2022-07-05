@@ -24,7 +24,7 @@ app.multcloud.com##button.upgrade-button
 www.pepper.ru##.cept-banner
 www.pepper.ru##.js-telegram-widget
 www.pepper.ru##.footer
-www.pepper.ru##article#thread_
+www.pepper.ru##article#thread--discussion
 
 deepl.com##.dl_overlay_popup
 deepl.com###dl_app_banner_popup
