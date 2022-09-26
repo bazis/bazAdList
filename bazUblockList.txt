@@ -55,3 +55,5 @@ otus.ru##.before-header
 
 jsonlint.com##div.memberful-button
 jsonlint.com##div.bsa-ad
+
+reddit.com###email-verification-tooltip-id
