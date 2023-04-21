@@ -59,3 +59,5 @@ jsonlint.com##div.memberful-button
 jsonlint.com##div.bsa-ad
 
 reddit.com###email-verification-tooltip-id
+
+sbermegamarket.ru##.ad-swiper
