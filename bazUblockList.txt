@@ -63,3 +63,6 @@ reddit.com###email-verification-tooltip-id
 sbermegamarket.ru##.ad-swiper
 
 cian.ru##div[class*="thumbs-wrapper"]:style(max-width: 100% !important;) 
+cian.ru##div[class*="--thumbs--"]:style(height: 150px !important;) 
+cian.ru##ul[data-name="PaginationThumbsComponent"] > li[class*="--container--"]:style(width: 150px !important;) 
+cian.ru##div[data-name="OfferGallery"] > div[class*="--container--"]:style(height: 700px !important;) 
