@@ -66,3 +66,13 @@ cian.ru##div[class*="thumbs-wrapper"]:style(max-width: 100% !important;)
 cian.ru##div[class*="--thumbs--"]:style(height: 150px !important;) 
 cian.ru##ul[data-name="PaginationThumbsComponent"] > li[class*="--container--"]:style(width: 150px !important;) 
 cian.ru##div[data-name="OfferGallery"] > div[class*="--container--"]:style(height: 700px !important;) 
+cian.ru##div[class*="--mortgage-banner-container--"]
+cian.ru##div[data-name="ContactsMain"]
+!помощь риелтора
+cian.ru##div[class*="--root--"]
+cian.ru###servicePlaceUnderMap
+cian.ru###mapsSection div[class*="--links--"]
+cian.ru##div > div[class*="--container--"] > div[class*="--form-container--"]
+cian.ru##section[data-name="SimilarNewObjects"]
+cian.ru##div[class*="--special-promos--"]
+cian.ru###frontend-footer
