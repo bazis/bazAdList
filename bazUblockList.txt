@@ -58,8 +58,6 @@ otus.ru##.before-header
 jsonlint.com##div.memberful-button
 jsonlint.com##div.bsa-ad
 
-reddit.com###email-verification-tooltip-id
-
 sbermegamarket.ru##.goods-for-review
 
 cian.ru##div[class*="thumbs-wrapper"]:style(max-width: 100% !important;) 
