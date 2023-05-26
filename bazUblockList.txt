@@ -6,6 +6,8 @@ music.yandex.ru##.bar-below__subscription
 
 mail.yandex.ru##.ns-view-mail-pro-left-column-button
 mail.yandex.ru##.PSHeader-Pro
+mail.yandex.ru##.ns-view-midgets-box
+mail.yandex.ru##.ns-view-react-left-footer
 disk.yandex.ru##.PSHeader-Pro
 disk.yandex.ru##a.InfoSpace_discount
 
