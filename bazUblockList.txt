@@ -76,3 +76,5 @@ cian.ru##div > div[class*="--container--"] > div[class*="--form-container--"]
 cian.ru##section[data-name="SimilarNewObjects"]
 cian.ru##div[class*="--special-promos--"]
 cian.ru###frontend-footer
+
+fr.upravdom.duckdns.org##.breadcrumbsBar .frBtn:style(max-width: 200px !important)
