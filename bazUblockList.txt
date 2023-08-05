@@ -78,3 +78,5 @@ cian.ru##div[class*="--special-promos--"]
 cian.ru###frontend-footer
 
 fr.upravdom.duckdns.org##.breadcrumbsBar .frBtn:style(max-width: 200px !important)
+
+www.youtube.com###dismissible > .ytd-rich-shelf-renderer
