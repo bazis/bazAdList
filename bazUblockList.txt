@@ -82,3 +82,5 @@ fr.upravdom.duckdns.org##.breadcrumbsBar .frBtn:style(max-width: 200px !importan
 www.youtube.com###dismissible > .ytd-rich-shelf-renderer
 
 myshows.me##.DetectAdBlock
+
+www.ozon.ru##div[data-widget="skuGrid"]
