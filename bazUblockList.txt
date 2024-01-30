@@ -89,3 +89,6 @@ www.ozon.ru##div[data-widget="skuGrid"]
 3d.homestyler.com##.hsc-product-item:has(div.icon-model-charge)
 3d.homestyler.com##.marketing-badge-container
 3d.homestyler.com##.multiLayerContainer
+
+dzen.ru###dzen-header
+dzen.ru##.black-header-base__whiteBackground-20
