@@ -85,7 +85,6 @@ myshows.me##.DetectAdBlock
 
 www.ozon.ru##div[data-widget="skuGrid"]
 
-3d.homestyler.com##.walkthrough-container
 3d.homestyler.com##.hsc-product-item:has(div.icon-model-charge)
 3d.homestyler.com##.marketing-badge-container
 3d.homestyler.com##.multiLayerContainer
