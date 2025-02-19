@@ -43,6 +43,7 @@ deepl.com###dl_menu_deepl_api
 deepl.com##.dl_footer
 deepl.com##.lmt__bottom_text--mobile
 deepl.com##div[role="dialog"]
+deepl.com##span.md\:inline-flex.empty\:hidden.hidden
 
 3dtoday.ru###id_scroll_elms
 3dtoday.ru##.editor-actions-close
