@@ -11,6 +11,12 @@ mail.yandex.ru##.ns-view-react-left-footer
 disk.yandex.ru##.PSHeader-Pro
 disk.yandex.ru##a.InfoSpace_discount
 
+market.yandex.ru##div[data-apiary-widget-name="@card/ShowPlaceAlfabankPromo"]
+market.yandex.ru##a[aria-label="Баннер"]
+market.yandex.ru##div[data-apiary-widget-name="@monetize/HeroBannerCarousel"]
+market.yandex.ru##div[data-apiary-widget-name="@card/ProductReviewPollPopup"]
+market.yandex.ru##div[data-apiary-widget-name="@marketfront/MadvHeaderPromo"]
+
 comments.bot##.svfwv.no_radius.sg_gp_block_comments
 
 cloud.mail.ru##.b-promo-banner__content
